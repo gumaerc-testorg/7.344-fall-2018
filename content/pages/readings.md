@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides citations and links to the readings for each weekly
+  session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 60b83b46-2502-adf6-497f-7d641e0e8a24
 ---
@@ -33,7 +34,7 @@ READINGS
 
 Introduction to the Course
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Introduction)
+{{% resource_link 92cc6b96-e040-a934-7b6a-98f90002ea6f "See the Lecture Summary" "#Introduction" %}}
 
 
 {{< tdclose >}}
@@ -51,14 +52,14 @@ Introduction to the Course
 
 An Introduction to Cancer Metabolism: The Warburg Effect
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_2)
+{{% resource_link 92cc6b96-e040-a934-7b6a-98f90002ea6f "See the Lecture Summary" "#Summ_2" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Cori, C.F., and Cori, G.T. (1925). "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The carbohydrate metabolism of tumors. II. Changes in the sugar, lactic acid, and co-combing power of blood passing through a tumor (PDF)](http://www.jbc.org/content/65/2/397.full.pdf)." _Journal of Biological Chemistry_ **65**, 397–405.
+Cori, C.F., and Cori, G.T. (1925). "[The carbohydrate metabolism of tumors. II. Changes in the sugar, lactic acid, and co-combing power of blood passing through a tumor (PDF)](http://www.jbc.org/content/65/2/397.full.pdf)." _Journal of Biological Chemistry_ **65**, 397–405.
 
 Christofk, H. R., Vander Heiden, M. G., Harris, M. H., Ramanathan, A., Gerszten, R. E., Wei, R., Fleming, M. D., Schreiber, S. L., and Cantley, L. C. (2008). "[The M2 splice isoform of pyruvate kinase is important for cancer metabolism and tumour growth](https://www.ncbi.nlm.nih.gov/pubmed/18337823)." _Nature_ **452**, 230–233.
 
@@ -75,7 +76,7 @@ Christofk, H. R., Vander Heiden, M. G., Harris, M. H., Ramanathan, A., Gerszten,
 
 Role of Mitochondrial Function in Tumor Cell Growth
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_3)
+{{% resource_link 92cc6b96-e040-a934-7b6a-98f90002ea6f "See the Lecture Summary" "#Summ_3" %}}
 
 
 {{< tdclose >}}
@@ -99,7 +100,7 @@ Birsoy, K., Wang, T., Chen, W. W., Freinkman, E., Abu-Remaileh, M., and Sabatini
 
 Amino Acid Metabolism
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_4)
+{{% resource_link 92cc6b96-e040-a934-7b6a-98f90002ea6f "See the Lecture Summary" "#Summ_4" %}}
 
 
 {{< tdclose >}}
@@ -123,7 +124,7 @@ Labuschagne, C. F., van den Broek, N. J. F., Mackay, G. M., Vousden, K. H., & Ma
 
 Nucleotide and Lipid Metabolism
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_5)
+{{% resource_link 92cc6b96-e040-a934-7b6a-98f90002ea6f "See the Lecture Summary" "#Summ_5" %}}
 
 
 {{< tdclose >}}
@@ -147,7 +148,7 @@ Svensson, R. U., Parker, S. J., Eichner, L. J., Kolar, M. J., Wallace, M., Brun,
 
 Mutations in Isocitrate Dehydrogenase and the Discovery of a Neomorphic Activity
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_6)
+{{% resource_link 92cc6b96-e040-a934-7b6a-98f90002ea6f "See the Lecture Summary" "#Summ_6" %}}
 
 
 {{< tdclose >}}
@@ -171,7 +172,7 @@ Ward, P. S., Patel, J., Wise, D. R., Abdel-Wahab, O., Bennett, B. D., Coller, H.
 
 2-hydroxyglutarate: The First Oncometabolite?
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_7)
+{{% resource_link 92cc6b96-e040-a934-7b6a-98f90002ea6f "See the Lecture Summary" "#Summ_7" %}}
 
 
 {{< tdclose >}}
@@ -193,7 +194,7 @@ Intlekofer, A. M., Shih, A. H., Wang, B., Nazir, A., Rustenburg, A. S., Albanese
 
 Field Trip—Visit to Agios
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_8)
+{{% resource_link 92cc6b96-e040-a934-7b6a-98f90002ea6f "See the Lecture Summary" "#Summ_8" %}}
 
 
 {{< tdclose >}}
@@ -215,7 +216,7 @@ Field Trip—Visit to Agios
 
 Oncogenes and Metabolism: How Genetic Changes Alter Cancer Metabolism
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_9)
+{{% resource_link 92cc6b96-e040-a934-7b6a-98f90002ea6f "See the Lecture Summary" "#Summ_9" %}}
 
 
 {{< tdclose >}}
@@ -239,7 +240,7 @@ Yuneva, M. O., Fan, T. W. M., Allen, T. D., Higashi, R. M., Ferraris, D. V., Tsu
 
 Context Matters! How Tissue Environment Alters Cancer Cell Metabolism
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_10)
+{{% resource_link 92cc6b96-e040-a934-7b6a-98f90002ea6f "See the Lecture Summary" "#Summ_10" %}}
 
 
 {{< tdclose >}}
@@ -263,7 +264,7 @@ Cantor, J. R., Abu-Remaileh, M., Kanarek, N., Freinkman, E., Gao, X., Louissaint
 
 Metabolic Interactions of Stroma Cells and Cancer
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_11)
+{{% resource_link 92cc6b96-e040-a934-7b6a-98f90002ea6f "See the Lecture Summary" "#Summ_11" %}}
 
 
 {{< tdclose >}}
@@ -285,7 +286,7 @@ Linares, J. F., Cordes, T., Duran, A., Reina-Campos, M., Valencia, T., Ahn, C. S
 
 Impact of Diet on Tumor Metabolism and Progression
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_12)
+{{% resource_link 92cc6b96-e040-a934-7b6a-98f90002ea6f "See the Lecture Summary" "#Summ_12" %}}
 
 
 {{< tdclose >}}
@@ -309,7 +310,7 @@ Hopkins, B. D., Pauli, C., Du, X., Wang, D. G., Li, X., Wu, D., Amadiume, S. C.,
 
 Oral Presentations and Final Discussion
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Summ_13)
+{{% resource_link 92cc6b96-e040-a934-7b6a-98f90002ea6f "See the Lecture Summary" "#Summ_13" %}}
 
 
 {{< tdclose >}}
