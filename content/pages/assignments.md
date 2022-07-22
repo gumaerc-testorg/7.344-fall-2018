@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a description of the weekly assignments, written
+  assignment, and oral presentation.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: c23b0020-cd10-21f5-0d3c-4bf4f3fdd0db
 ---

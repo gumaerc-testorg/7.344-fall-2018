@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, format, objectives, grading, and the schedule of
+  course topics and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 600aca04-e82b-21c0-deee-a71b47ed8393
 ---
@@ -14,13 +19,13 @@ Prerequisites
 
 Recommended prerequisites for this course are one of the following:
 
-[_7.03 Genetics_](/courses/7-03-genetics-fall-2004/)
+[_7.03 Genetics_](/courses/7-03-genetics-fall-2004)
 
 _7.05 General Biochemistry_
 
-[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
+[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007)
 
-[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005/)
+[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
 
 Course Description
 ------------------
