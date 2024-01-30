@@ -15,3 +15,7 @@ leftnav:
   name: Assignments
   pageRef: /pages/assignments
   weight: 40
+- identifier: d753994f-13c0-034c-aef6-5b7647bfccb6
+  name: Resource Test
+  pageRef: /resources/7-344f18
+  weight: 50
