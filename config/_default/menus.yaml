@@ -19,3 +19,7 @@ leftnav:
   name: Resource Test
   pageRef: /resources/7-344f18
   weight: 50
+- identifier: c2c4e056-d418-4d34-a1cd-b18d1a5cb965
+  name: Resource List Test
+  pageRef: /lists/test-resource-list
+  weight: 60
