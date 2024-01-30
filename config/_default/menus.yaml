@@ -23,3 +23,7 @@ leftnav:
   name: Resource List Test
   pageRef: /lists/test-resource-list
   weight: 60
+- identifier: cc9a33b6-4bb3-4abe-b33a-0974119ee83b
+  name: "\u30C6\u30B9\u30C8\u30EA\u30BD\u30FC\u30B9\u30EA\u30B9\u30C8"
+  pageRef: /lists/
+  weight: 70
