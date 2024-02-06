@@ -27,3 +27,7 @@ leftnav:
   name: "\u30C6\u30B9\u30C8\u30DA\u30FC\u30B8"
   pageRef: "/pages/\u30C6\u30B9\u30C8\u30DA\u30FC\u30B8"
   weight: 70
+- identifier: 3c5b9e16-e38a-4c79-b1f7-383c3d35be30
+  name: "\u30C6\u30B9\u30C8 \u30DA\u30FC\u30B8 2"
+  pageRef: "/pages/\u30C6\u30B9\u30C8-\u30DA\u30FC\u30B8-2"
+  weight: 80
