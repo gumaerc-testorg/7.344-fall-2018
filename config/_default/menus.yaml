@@ -15,19 +15,3 @@ leftnav:
   name: Assignments
   pageRef: /pages/assignments
   weight: 40
-- identifier: d753994f-13c0-034c-aef6-5b7647bfccb6
-  name: Resource Test
-  pageRef: /resources/7-344f18
-  weight: 50
-- identifier: c2c4e056-d418-4d34-a1cd-b18d1a5cb965
-  name: Resource List Test
-  pageRef: /lists/test-resource-list
-  weight: 60
-- identifier: 21178308-fef8-42de-b632-0f38e0ea8450
-  name: "\u30C6\u30B9\u30C8\u30DA\u30FC\u30B8"
-  pageRef: "/pages/\u30C6\u30B9\u30C8\u30DA\u30FC\u30B8"
-  weight: 70
-- identifier: 3c5b9e16-e38a-4c79-b1f7-383c3d35be30
-  name: "\u30C6\u30B9\u30C8 \u30DA\u30FC\u30B8 2"
-  pageRef: "/pages/\u30C6\u30B9\u30C8-\u30DA\u30FC\u30B8-2"
-  weight: 80
