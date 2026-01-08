@@ -48,9 +48,9 @@ An Introduction to Cancer Metabolism: The Warburg Effect
 
 
 {{< anchor "Summ_2" >}}{{< /anchor >}}Optional Background:  
-{{% resource_link "92c061c1-45e9-4e41-a9bc-db0f364ce446" "An Introductory Lecture on the Hallmarks of Cancer" %}} (First 3 minutes)
+[An Introductory Lecture on the Hallmarks of Cancer](https://www.coursera.org/learn/cancer/lecture/kZshY/the-human-cell-and-cellular-hallmarks-cancer-6-8) (First 3 minutes)
 
-In the 1920s it was observed that cancer cells exhibit altered metabolism compared to normal cells. This observation was made by {{% resource_link "043c5a5b-6736-4a59-bdb2-b0f68428fee4" "Otto Warburg" %}}, a German biochemist. He found that unlike normal cells, cancer cells have increased glucose uptake and increased secretion of lactate. Most normal cells display this behavior only under oxygen deprivation. Why tumors have this behavior and if it could be targeted to slow cancer growth were problems not explored for decades.
+In the 1920s it was observed that cancer cells exhibit altered metabolism compared to normal cells. This observation was made by [Otto Warburg](https://www.ncbi.nlm.nih.gov/pubmed/25717390), a German biochemist. He found that unlike normal cells, cancer cells have increased glucose uptake and increased secretion of lactate. Most normal cells display this behavior only under oxygen deprivation. Why tumors have this behavior and if it could be targeted to slow cancer growth were problems not explored for decades.
 
 The first of our papers from this week comes from Gerty and Carl Cori, contemporaries of Warburg whose scientific partnership illuminated much of carbohydrate metabolism. We will see how they pushed Warburg’s observations outside the Petri dish. The second paper describes how in 2008 the field of cancer metabolism was reinvigorated following the discovery that cancer cells express a specific isoform of a key metabolic enzyme, pyruvate kinase M2 (PKM2).
 
@@ -158,7 +158,7 @@ The second paper describes enasidenib, a drug in development that blocks 2-HG pr
 Field Trip—Visit to Agios
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "Summ_8" >}}{{< /anchor >}}We will take a field trip to a company translating cancer metabolism findings (from the papers we have read!) into patient therapeutics. {{% resource_link "cc6f6ac5-5328-46e7-ac45-a3b07648ab34" "Agios" %}} is a biotechnology company founded by Dr. Lewis Cantley, Dr. Tak Mak, and Dr. Craig Thompson. We have read papers from the laboratories of Drs. Cantley and Thompson. These investigators realized potential for translating the basic biology underlying tumor metabolism for cancer therapeutics and banded together to form Agios. Initial work has involved developing IDH inhibitors and pyruvate kinase activators, both of which are now in phase I clinical trials. We will tour the research space and facilities to observe how the research is done and hear a presentation from an Agios scientist describing how his/her research could benefit people afflicted with cancer and inborn errors of metabolism.
+{{< anchor "Summ_8" >}}{{< /anchor >}}We will take a field trip to a company translating cancer metabolism findings (from the papers we have read!) into patient therapeutics. [Agios](http://www.agios.com/) is a biotechnology company founded by Dr. Lewis Cantley, Dr. Tak Mak, and Dr. Craig Thompson. We have read papers from the laboratories of Drs. Cantley and Thompson. These investigators realized potential for translating the basic biology underlying tumor metabolism for cancer therapeutics and banded together to form Agios. Initial work has involved developing IDH inhibitors and pyruvate kinase activators, both of which are now in phase I clinical trials. We will tour the research space and facilities to observe how the research is done and hear a presentation from an Agios scientist describing how his/her research could benefit people afflicted with cancer and inborn errors of metabolism.
 {{< tdclose >}}
 
 {{< trclose >}}
